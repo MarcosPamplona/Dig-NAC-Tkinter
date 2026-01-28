@@ -19,7 +19,7 @@ Mostra um log em tempo real do que está sendo executado.
 
 Abre o Excel selecionado.
 
-Usa:
+Utiliza:
 
 Coluna “Código” código do item
 
